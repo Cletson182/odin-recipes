@@ -1,0 +1,129 @@
+#page {
+    background-color: bisque;
+}
+
+
+
+ocb-header{
+    font-size: larger;
+    color: salmon;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.ocb-image {
+    height: 300px;
+    width: auto;
+    place-items: center;
+}
+
+.ocb-description{
+    font-size: large;
+    color: salmon
+    font-family: sans-serif;
+}
+
+.ocb-title{
+    font-size: medium;
+    color: salmon
+    font-family: sans-serif;
+}
+
+.ocb-list{
+    font-size: small;
+    color: salmon
+    font-family: sans-serif;
+}
+
+.cdd-header{
+    font-size: larger;
+    color: salmon;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.cdd-image {
+    height: 300px;
+    width: auto;
+    place-items: center;
+}
+
+.cdd-description{
+    font-size: large;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.cdd-title{
+    font-size: medium;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.cdd-list{
+    font-size: small;
+    color:salmon;
+    font-family: sans-serif;
+}
+
+.ocb-header{
+    font-size: larger;
+    color: salmon;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.ocb-image {
+    height: 300px;
+    width: auto;
+    place-items: center;
+}
+
+.ocb-description{
+    font-size: large;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.ocb-title{
+    font-size: medium;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.ocb-list{
+    font-size: small;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.cccb-header{
+    font-size: larger;
+    color: salmon;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.cccb-image {
+    height: 300px;
+    width: auto;
+    place-items: center;
+}
+
+.cccb-description{
+    font-size: large;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.cccb-title{
+    font-size: medium;
+    color: salmon;
+    font-family: sans-serif;
+}
+
+.cccb-list{
+    font-size: small;
+    color: salmon;
+    font-family: sans-serif;
+}
